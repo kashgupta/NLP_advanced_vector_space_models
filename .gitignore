@@ -1,0 +1,4 @@
+*.xml
+GoogleNews-vectors-negative300.bin
+reuters.rcv1.tokenized
+*.iml
