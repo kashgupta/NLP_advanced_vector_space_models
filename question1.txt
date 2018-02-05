@@ -16,7 +16,7 @@ YOUR ANSWER HERE: 300
 2. What are the top-5 most similar words to `picnic` (not including `picnic` itself)?
 Write your answer space-separated strings, i.e. "word1 word2 word3 word4 word5".
 
-YOUR ANSWER HERE: picnics picnic_lunch potluck_picnic picnic_supper picnicking
+YOUR ANSWER HERE: picnics picnic_lunch Picnic potluck_picnic picnic_supper 
 
 3. According to the word embeddings, which of these words is not like the others?
 ['tissue', 'papyrus', 'manila', 'newsprint', 'parchment', 'gazette']
